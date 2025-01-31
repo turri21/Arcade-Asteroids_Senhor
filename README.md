@@ -1,3 +1,8 @@
+-=(Asteroids_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # [Arcade: Asteroids](https://www.arcade-museum.com/game_detail.php?game_id=6939) for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 Ported to MiSTer from an Asteroids Deluxe core which was originally made by James Sweet
